@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bedbooking plugin\n"
+"POT-Creation-Date: 2015-04-27 15:54+0100\n"
+"PO-Revision-Date: 2015-05-07 14:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: RST <startup@rst.com.pl>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: F:\\XAMPP\\htdocs\\wordpress\\wp-content\\plugins"
+"\\BedBookingPlugin\n"
+
+#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/BedBookingPlugin.php:90
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nie masz wystarczających uprawnień, by wyświetlić tę stronę."
+
+#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/BedBookingWidget.php:9
+msgid "BedBooking kalendarz rezerwacji"
+msgstr ""
+
+#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/BedBookingWidget.php:10
+msgid "Kalendarz, wyszukiwarka"
+msgstr ""
+
+#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/BedBookingWidget.php:89
+msgid "Typ:"
+msgstr ""
+
+#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/BedBookingWidget.php:94
+msgid "Język:"
+msgstr ""
+
+#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:2
+msgid "Username or password are invalid"
+msgstr "Niepoprawny login lub hasło"
+
+#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:3
+msgid "Save successfull"
+msgstr "Zapis udany"
+
+#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:44
+msgid "Basic settings"
+msgstr "Ustawienie podstawowe"
+
+#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:46
+msgid "Credentials to bed-booking panel"
+msgstr "Dane logowania"
+
+#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:51
+msgid "Username"
+msgstr "Login"
+
+#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:55
+msgid "Password"
+msgstr "Hasło"
+
+#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:60
+msgid "Valid credentials"
+msgstr "Dane logowania poprawne"
+
+#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:64
+msgid "Bebbooking connection"
+msgstr "Połączenie z BedBooking"
+
+#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:67
+msgid "Go to widgets to complete the configuration"
+msgstr "Przejdź do zakładki widgedy aby dokończyć konfigurację."
+
+#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:86
+msgid "Save"
+msgstr "Zapisz"

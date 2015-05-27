@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bedbooking plugin\n"
+"POT-Creation-Date: 2015-05-08 07:44+0100\n"
+"PO-Revision-Date: 2015-05-08 07:44+0100\n"
+"Last-Translator: \n"
+"Language-Team: RST <startup@rst.com.pl>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: F:/plugin_test\n"
+
+#: F:/plugin_test/BedBookingPlugin.php:16
+msgid "bb_desc"
+msgstr ""
+"Sell accommodation through your website. The widget automatically updates "
+"available dates and bookings based on the data from the BedBooking "
+"application."
+
+#: F:/plugin_test/BedBookingPlugin.php:17
+msgid "bb_name"
+msgstr "BedBooking - Booking calendar"
+
+#: F:/plugin_test/BedBookingPlugin.php:91
+msgid "You do not have sufficient permissions to access this page."
+msgstr "You do not have the required permissions to view this page"
+
+#: F:/plugin_test/BedBookingWidget.php:9
+msgid "BedBooking"
+msgstr "BedBooking"
+
+#: F:/plugin_test/BedBookingWidget.php:10
+msgid "Kalendarz, wyszukiwarka"
+msgstr "Booking calendar"
+
+#: F:/plugin_test/BedBookingWidget.php:89
+msgid "Type:"
+msgstr "Type:"
+
+#: F:/plugin_test/BedBookingWidget.php:94
+msgid "Language:"
+msgstr "Language:"
+
+#: F:/plugin_test/BedBookingWidget.php:105
+msgid "Please configure plugin first"
+msgstr "Please configure plugin first"
+
+#: F:/plugin_test/BedBookingWidget.php:106
+msgid "here"
+msgstr "here"
+
+#: F:/plugin_test/admin/options.php:2
+msgid "Username or password are invalid"
+msgstr "Login or password are invalid"
+
+#: F:/plugin_test/admin/options.php:3
+msgid "Save successfull"
+msgstr "Save successfull"
+
+#: F:/plugin_test/admin/options.php:20
+msgid "TxtRegister"
+msgstr "Register"
+
+#: F:/plugin_test/admin/options.php:21
+msgid "TxtLogin"
+msgstr "Login"
+
+#: F:/plugin_test/admin/options.php:29
+msgid "TxtNewUser1"
+msgstr "A new user?"
+
+#: F:/plugin_test/admin/options.php:30
+msgid "TxtNewUser2"
+msgstr "Download application and create account"
+
+#: F:/plugin_test/admin/options.php:35 F:/plugin_test/admin/options.php:109
+msgid "TxtHelp"
+msgstr "Do you need help?"
+
+#: F:/plugin_test/admin/options.php:55
+msgid "TxtAccount1"
+msgstr "You have a registered account?"
+
+#: F:/plugin_test/admin/options.php:56
+msgid "TxtAccount2"
+msgstr "Enter your account details and click Login"
+
+#: F:/plugin_test/admin/options.php:61
+msgid "Basic settings"
+msgstr "Test tłumaczeń"
+
+#: F:/plugin_test/admin/options.php:66
+msgid "Credentials to bed-booking panel"
+msgstr "Data access to BedBooking panel"
+
+#: F:/plugin_test/admin/options.php:73
+msgid "Username"
+msgstr "Login"
+
+#: F:/plugin_test/admin/options.php:77
+msgid "Password"
+msgstr "Password"
+
+#: F:/plugin_test/admin/options.php:83
+msgid "TxtDontRemembaPass"
+msgstr "Forgot your password?"
+
+#: F:/plugin_test/admin/options.php:87
+msgid "Save"
+msgstr "Login"
+
+#: F:/plugin_test/admin/options.php:93
+msgid "Valid credentials"
+msgstr "The login details are correct"
+
+#: F:/plugin_test/admin/options.php:97
+msgid "Bebbooking connection"
+msgstr "BedBooking connection was successful"
+
+#: F:/plugin_test/admin/options.php:97
+msgid "remove"
+msgstr "remove"
+
+#: F:/plugin_test/admin/options.php:100
+msgid "Go to widgets to complete the configuration"
+msgstr "Go to the widgets to complete the setup"

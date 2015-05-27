@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2015-04-27, 08:16:31
+    Author     : Janik
+*/
+
+.data-save { margin-bottom:25px !important; }
+	.credentials-error { margin-bottom:25px !important; }
+.save-row                       { margin-top:3px; margin-bottom:20px; margin-left:175px; }
+.bb-status-indicator            {  margin-right: 5px; margin-left: 2px; width: 10px; margin-top: 2px;   padding-top: 5px; position: relative; top: 1px }
+
+div#widgets-right               { margin:0px !important; padding:0px !important; }
+div#widgets-left  { margin:0px !important; padding:0px !important; }
+
+.txt-info { color:#4B4B4B; font-size:12px; font-family:Arial; clear:both; font-weight:bold; line-height:20px; margin:0px !important; padding:0px !important; margin-left:30px !important; }
+.img-left { margin-left:30px; }
+.wp-link { color:#2279a0; font-size:12px; font-family:Arial; clear:both; font-weight:bold; line-height:20px; margin:0px !important; padding:0px !important; margin-left:30px !important;  }
+
+.wp-bbregister { width:117px; height:20px; background:#dfdfdf; color:black; float:left; cursor:pointer; margin-left:30px; }
+	.wp-bbregister p { margin:0px !important; line-height:12px !important; padding:0px !important; padding-top:3px !important; }
+.wp-bblogin { width:115px; height:18px; background:#fff; color:black; border:1px solid #dfdfdf; float:left; cursor:pointer; margin-left:10px; }
+	.wp-bblogin p { margin:0px !important; line-height:12px !important; padding:0px !important; padding-top:3px !important; }
+
+.wpbbactive { width:117px !important; height:20px !important; background:#dfdfdf !important; color:black !important; float:left !important; cursor:pointer !important; }
+.wpbbunactive { width:115px !important; height:18px !important; background:#fff !important; color:black !important; border:1px solid #dfdfdf !important; float:left !important; cursor:pointer !important; }
+
+
+div#widgets-right .widgets-holder-wrap { margin-top:-3px !important; }
+
+	div#widgets-right .sidebars-column-1, div#widgets-right .sidebars-column-2 { max-width:100% !important; }
+	#widgets-right .sidebars-column-1, #widgets-right .sidebars-column-2 { width:100% !important; }
+	
+    #bedbooking-username { width:240px !important; }
+    #bedbooking-password { width:240px !important; }
+
+    .hidden                 { display:  none }
