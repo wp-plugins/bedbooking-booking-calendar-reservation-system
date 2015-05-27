@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bedbooking plugin\n"
+"POT-Creation-Date: 2015-05-21 08:58+0100\n"
+"PO-Revision-Date: 2015-05-21 08:58+0100\n"
+"Last-Translator: \n"
+"Language-Team: RST <startup@rst.com.pl>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: F:\\XAMPP\\htdocs\\bedbooking_sync\\library\\wordpress"
+"\\BedBookingPlugin\n"
+
+#: F:\XAMPP\htdocs\bedbooking_sync\library\wordpress\BedBookingPlugin/BedBookingPlugin.php:21
+msgid "bb_desc"
+msgstr ""
+"Sprzedawaj noclegi przez swoją stronę internetową. Widget automatycznie "
+"zaktualizuje wolne terminy i rezerwacje na podstawie danych z aplikacji "
+"BedBooking."
+
+#: F:\XAMPP\htdocs\bedbooking_sync\library\wordpress\BedBookingPlugin/BedBookingPlugin.php:22
+msgid "bb_name"
+msgstr "BedBooking - Kalendarz rezerwacji"
+
+#: F:\XAMPP\htdocs\bedbooking_sync\library\wordpress\BedBookingPlugin/BedBookingPlugin.php:91
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nie masz wystarczających uprawnień, aby wyświetlić tę stronę."
+
+#: F:\XAMPP\htdocs\bedbooking_sync\library\wordpress\BedBookingPlugin/BedBookingWidget.php:15
+msgid "BedBooking"
+msgstr ""
+
+#: F:\XAMPP\htdocs\bedbooking_sync\library\wordpress\BedBookingPlugin/BedBookingWidget.php:16
+msgid "Booking calendar"
+msgstr "Kalendarz rezerwacji"
+
+#: F:\XAMPP\htdocs\bedbooking_sync\library\wordpress\BedBookingPlugin/BedBookingWidget.php:90
+msgid "Type:"
+msgstr "Typ:"
+
+#: F:\XAMPP\htdocs\bedbooking_sync\library\wordpress\BedBookingPlugin/BedBookingWidget.php:95
+msgid "Language:"
+msgstr "Język:"
+
+#: F:\XAMPP\htdocs\bedbooking_sync\library\wordpress\BedBookingPlugin/BedBookingWidget.php:106
+msgid "Please configure plugin first"
+msgstr "Proszę najpierw skonfigurować wtyczkę"
+
+#: F:\XAMPP\htdocs\bedbooking_sync\library\wordpress\BedBookingPlugin/BedBookingWidget.php:107
+msgid "here"
+msgstr "tutaj"
+
+#: F:\XAMPP\htdocs\bedbooking_sync\library\wordpress\BedBookingPlugin/admin/options.php:2
+msgid "Username or password are invalid"
+msgstr "Niepoprawny login lub hasło"
+
+#: F:\XAMPP\htdocs\bedbooking_sync\library\wordpress\BedBookingPlugin/admin/options.php:3
+msgid "Save successfull"
+msgstr "Zapis udany."
+
+#: F:\XAMPP\htdocs\bedbooking_sync\library\wordpress\BedBookingPlugin/admin/options.php:9
+msgid "TxtRegister"
+msgstr "Rejestracja"
+
+#: F:\XAMPP\htdocs\bedbooking_sync\library\wordpress\BedBookingPlugin/admin/options.php:10
+msgid "TxtLogin"
+msgstr "Logowanie"
+
+#: F:\XAMPP\htdocs\bedbooking_sync\library\wordpress\BedBookingPlugin/admin/options.php:18
+msgid "TxtNewUser1"
+msgstr "Jesteś nowym użytkownikiem?"
+
+#: F:\XAMPP\htdocs\bedbooking_sync\library\wordpress\BedBookingPlugin/admin/options.php:19
+msgid "TxtNewUser2"
+msgstr "Pobierz aplikację i utwórz konto"
+
+#: F:\XAMPP\htdocs\bedbooking_sync\library\wordpress\BedBookingPlugin/admin/options.php:24
+#: F:\XAMPP\htdocs\bedbooking_sync\library\wordpress\BedBookingPlugin/admin/options.php:78
+msgid "TxtHelp"
+msgstr "Potrzebujesz pomocy?"
+
+#: F:\XAMPP\htdocs\bedbooking_sync\library\wordpress\BedBookingPlugin/admin/options.php:44
+msgid "TxtAccount1"
+msgstr "Posiadasz zarejestrowane konto?"
+
+#: F:\XAMPP\htdocs\bedbooking_sync\library\wordpress\BedBookingPlugin/admin/options.php:45
+msgid "TxtAccount2"
+msgstr "Wpisz dane konta i kliknij Zaloguj"
+
+#: F:\XAMPP\htdocs\bedbooking_sync\library\wordpress\BedBookingPlugin/admin/options.php:50
+msgid "Username"
+msgstr "Login"
+
+#: F:\XAMPP\htdocs\bedbooking_sync\library\wordpress\BedBookingPlugin/admin/options.php:54
+msgid "Password"
+msgstr "Hasło"
+
+#: F:\XAMPP\htdocs\bedbooking_sync\library\wordpress\BedBookingPlugin/admin/options.php:60
+msgid "TxtDontRemembaPass"
+msgstr "Nie pamiętasz hasła?"
+
+#: F:\XAMPP\htdocs\bedbooking_sync\library\wordpress\BedBookingPlugin/admin/options.php:64
+msgid "Save"
+msgstr "Zaloguj"
+
+#: F:\XAMPP\htdocs\bedbooking_sync\library\wordpress\BedBookingPlugin/admin/options.php:69
+msgid "Go to widgets to complete the configuration"
+msgstr "Przejdź do zakładki widgety aby dokończyć konfigurację"
+
+#~ msgid "Kalendarz, wyszukiwarka"
+#~ msgstr "Kalendarz rezerwacji"
+
+#~ msgid "Basic settings"
+#~ msgstr "Ustawienie podstawowe"
+
+#~ msgid "Credentials to bed-booking panel"
+#~ msgstr "Dane dostępowe do panelu BedBooking"
+
+#~ msgid "Valid credentials"
+#~ msgstr "Dane logowania poprawne"
+
+#~ msgid "Bebbooking connection"
+#~ msgstr "Połączenie z BedBooking"
+
+#~ msgid "remove"
+#~ msgstr "usuń"
+
+#~ msgid "test word"
+#~ msgstr "testowa fraza"
+
+#~ msgid "BedBooking widget for your site"
+#~ msgstr "opis po polsku"
+
+#~ msgid "Typ:"
+#~ msgstr "Typ:"
+
+#~ msgid "Język:"
+#~ msgstr "Język"

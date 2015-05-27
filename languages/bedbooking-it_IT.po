@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bedbooking plugin\n"
+"POT-Creation-Date: 2015-05-08 08:16+0100\n"
+"PO-Revision-Date: 2015-05-08 08:16+0100\n"
+"Last-Translator: \n"
+"Language-Team: RST <startup@rst.com.pl>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: F:\\developer\\wordpress\\wp-content\\plugins"
+"\\BedBookingPlugin\n"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/BedBookingPlugin.php:16
+msgid "bb_desc"
+msgstr ""
+"Vendi i pernottamenti sul tuo sito web. Il widget aggiornerà automaticamente "
+"i periodi liberi e le prenotazioni in base ai dati dall’applicazione "
+"BedBooking."
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/BedBookingPlugin.php:17
+msgid "bb_name"
+msgstr "BedBooking - Calendario prenotazioni"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/BedBookingPlugin.php:91
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Non hai i permessi necessari per visualizzare questa pagina."
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/BedBookingWidget.php:9
+msgid "BedBooking"
+msgstr "BedBooking"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/BedBookingWidget.php:10
+msgid "Kalendarz, wyszukiwarka"
+msgstr "Calendario prenotazioni"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/BedBookingWidget.php:89
+msgid "Type:"
+msgstr "Tipo:"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/BedBookingWidget.php:94
+msgid "Language:"
+msgstr "Lingua:"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/BedBookingWidget.php:105
+msgid "Please configure plugin first"
+msgstr "Si prega di configurare prima la spina"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/BedBookingWidget.php:106
+msgid "here"
+msgstr "qui"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:2
+msgid "Username or password are invalid"
+msgstr "Email o password errata"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:3
+msgid "Save successfull"
+msgstr "Scrittura di successo"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:20
+msgid "TxtRegister"
+msgstr "Iscrizione"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:21
+msgid "TxtLogin"
+msgstr "Login"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:29
+msgid "TxtNewUser1"
+msgstr "Sei un nuovo utente?"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:30
+msgid "TxtNewUser2"
+msgstr "Scarica l'applicazione e crea il tuo account"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:35
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:109
+msgid "TxtHelp"
+msgstr "Avete bisogno di aiuto?"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:55
+msgid "TxtAccount1"
+msgstr "Hai già un account?"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:56
+msgid "TxtAccount2"
+msgstr "Inserisci i dati e clicca su Login"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:61
+msgid "Basic settings"
+msgstr "Impostazione di base"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:66
+msgid "Credentials to bed-booking panel"
+msgstr "I dati di accesso al pannello di BedBooking"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:73
+msgid "Username"
+msgstr "Login"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:77
+msgid "Password"
+msgstr "Password"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:83
+msgid "TxtDontRemembaPass"
+msgstr "Non ti ricordi la password?"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:87
+msgid "Save"
+msgstr "Login"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:93
+msgid "Valid credentials"
+msgstr "Dettagli di accesso corretti"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:97
+msgid "Bebbooking connection"
+msgstr "La combinazione di BedBooking"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:97
+msgid "remove"
+msgstr "rimuovere"
+
+#: F:\developer\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:100
+msgid "Go to widgets to complete the configuration"
+msgstr "Vai ai widget per completare la configurazione"
+
+#~ msgid "test word"
+#~ msgstr "testowa fraza"
+
+#~ msgid "BedBooking widget for your site"
+#~ msgstr "opis po polsku"
+
+#~ msgid "Typ:"
+#~ msgstr "Typ:"
+
+#~ msgid "Język:"
+#~ msgstr "Język"
