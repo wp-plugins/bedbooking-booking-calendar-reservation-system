@@ -165,38 +165,26 @@ When you register a new account you will receive username and password.
 
 == Screenshots ==
 
-image1
-Booking calendar - plugin of all rooms
+1. Booking calendar - plugin of all rooms
 
-image2
-Booking calendar - plugin of one room
+2. Booking calendar - plugin of one room
 
-image3
-Plugin of search form
+3. Plugin of search form
 
-image4
-Plugin of search form
+4. Plugin of search form
 
-image5
-Booking form - step 1
+5. Booking form - step 1
 
-image6
-Booking form - step 2
+6. Booking form - step 2
 
-image7
-Booking form - step 3
+7. Booking form - step 3
 
-image8
-Booking manager - web app
+8. Booking manager - web app
 
-image9
-Booking manager - mobile app
+9. Booking manager - mobile app
 
-image10
-Booking system
+10. Booking system
 
-image11
-Booking system
+11. Booking system
 
-image12
-Booking system
+12. Booking system
