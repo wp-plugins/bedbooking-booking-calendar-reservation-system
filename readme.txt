@@ -151,6 +151,7 @@ office@bed-booking.com
 
 To create an account you need to downolad BedBooking mobile app.
 
+
 - Google Play: <a href="https://play.google.com/store/apps/details?id=com.rst.bedbooking" target="_blank" title="https://play.google.com/store/apps/details?id=com.rst.bedbooking">https://play.google.com/store/apps/details?id=com.rst.bedbooking</a>
 
 - App Store: <a href="https://itunes.apple.com/US/app/id826280602?mt=8" target="_blank" title="https://itunes.apple.com/US/app/id826280602?mt=8">https://itunes.apple.com/US/app/id826280602?mt=8</a>
