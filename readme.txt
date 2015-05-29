@@ -158,6 +158,7 @@ To create an account you need to downolad BedBooking mobile app.
 
 - Windows Phone Store: <a href="https://www.windowsphone.com/pl-pl/store/app/bedbooking/7f2561b5-474a-41bd-9153-08cf963dd39c " target="_blank" title="https://www.windowsphone.com/pl-pl/store/app/bedbooking/7f2561b5-474a-41bd-9153-08cf963dd39c ">https://www.windowsphone.com/pl-pl/store/app/bedbooking/7f2561b5-474a-41bd-9153-08cf963dd39c </a>
 
+
 When you register a new account you will receive username and password.
 
 **Do you need help? Contact with us.**
