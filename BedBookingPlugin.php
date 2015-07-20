@@ -33,7 +33,7 @@ if ( is_admin() ) {
 
 }
 
-wp_enqueue_script("jquery");
+
 
 add_action( 'admin_menu', 'bedbooking_menu' );
 add_action( 'admin_init', 'bedbooking_init' );

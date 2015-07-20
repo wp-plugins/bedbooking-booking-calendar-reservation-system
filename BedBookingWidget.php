@@ -38,9 +38,9 @@ class BedBookingWidget extends WP_Widget {
                     lang: <?php echo $lang;?>, baseUrl : '//panel.bed-booking.com/', hideLocationSearch : false,
                     statistic : 'bb_wp_search' }); }; (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) {  return; }
                     js = d.createElement(s); js.id = id; js.src = '//panel.bed-booking.com/widget/widget_v2.js'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'bedbooking-jssdk')); </script>
-        <?php elseif($type == 0):  //wp_enqueue_script( 'bedbooking_main_full_script' ); ?>
+        <?php elseif($type == 0):  ?>
             <div id='bedbooking-calendar-0'></div><script type='text/javascript'>jQuery(document).ready(function() { new CalendarFull('<?php echo $data['calendarcode'];?>', '0', 'bedbooking-calendar-0', { normal: '7dbb2c',  reserved: 'fb1643', nextMonth: 'ecf5e1', font:'81817f', width: 450, lang: <?php echo $lang;?>,  statistic : 'bb_wp_full'  }); }); </script>
-        <?php else : //wp_enqueue_script( 'bedbooking_main_script' );  ?>
+        <?php else :  ?>
             <div id='bedbooking-calendar-<?php echo $type ;?>'></div><script type='text/javascript'>jQuery(document).ready(function() { new Calendar('<?php echo $data['calendarcode'];?>', '<?php echo $type ;?>', 'bedbooking-calendar-<?php echo $type ;?>', { normal: '7dbb2c',  reserved: 'fb1643', nextMonth: 'ecf5e1', font:'81817f', width: 450, lang: <?php echo $lang;?>, statistic : 'bb_wp_room' }); }); </script>
         <?php endif;?>
 
