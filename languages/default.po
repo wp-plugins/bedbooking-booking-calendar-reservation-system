@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Bedbooking plugin\n"
-"POT-Creation-Date: 2015-04-28 12:17+0100\n"
-"PO-Revision-Date: 2015-05-07 14:23+0100\n"
+"POT-Creation-Date: 2015-07-28 09:45+0100\n"
+"PO-Revision-Date: 2015-07-28 09:45+0100\n"
 "Last-Translator: \n"
 "Language-Team: RST <startup@rst.com.pl>\n"
 "Language: English\n"
@@ -12,77 +12,138 @@ msgstr ""
 "X-Generator: Poedit 1.5.7\n"
 "X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;_x\n"
 "X-Poedit-Basepath: .\n"
-"X-Poedit-SearchPath-0: F:\\XAMPP\\htdocs\\wordpress\\wp-content\\plugins"
-"\\BedBookingPlugin\n"
+"X-Poedit-SearchPath-0: F:\\XAMPP\\htdocs\\BedBooking Wordpress Plugin\n"
 
-#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/BedBookingPlugin.php:90
+#: F:\XAMPP\htdocs\BedBooking Wordpress
+#: Plugin/tags/1.0/BedBookingPlugin.php:21
+#: Plugin/trunk/BedBookingPlugin.php:21
+msgid "bb_desc"
+msgstr ""
+
+#: F:\XAMPP\htdocs\BedBooking Wordpress
+#: Plugin/tags/1.0/BedBookingPlugin.php:22
+#: Plugin/trunk/BedBookingPlugin.php:22
+msgid "bb_name"
+msgstr ""
+
+#: F:\XAMPP\htdocs\BedBooking Wordpress
+#: Plugin/tags/1.0/BedBookingPlugin.php:91
+#: Plugin/trunk/BedBookingPlugin.php:91
 msgid "You do not have sufficient permissions to access this page."
 msgstr ""
 
-#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/BedBookingWidget.php:9
+#: F:\XAMPP\htdocs\BedBooking Wordpress
+#: Plugin/tags/1.0/BedBookingWidget.php:15
+#: Plugin/trunk/BedBookingWidget.php:15
 msgid "BedBooking"
 msgstr ""
 
-#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/BedBookingWidget.php:10
-msgid "Kalendarz, wyszukiwarka"
+#: F:\XAMPP\htdocs\BedBooking Wordpress
+#: Plugin/tags/1.0/BedBookingWidget.php:16
+#: Plugin/trunk/BedBookingWidget.php:16
+msgid "Booking calendar"
 msgstr ""
 
-#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/BedBookingWidget.php:89
+#: F:\XAMPP\htdocs\BedBooking Wordpress
+#: Plugin/tags/1.0/BedBookingWidget.php:90
+#: Plugin/trunk/BedBookingWidget.php:90
 msgid "Type:"
 msgstr ""
 
-#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/BedBookingWidget.php:94
+#: F:\XAMPP\htdocs\BedBooking Wordpress
+#: Plugin/tags/1.0/BedBookingWidget.php:95
+#: Plugin/trunk/BedBookingWidget.php:95
 msgid "Language:"
 msgstr ""
 
-#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/BedBookingWidget.php:105
+#: F:\XAMPP\htdocs\BedBooking Wordpress
+#: Plugin/tags/1.0/BedBookingWidget.php:106
+#: Plugin/trunk/BedBookingWidget.php:106
 msgid "Please configure plugin first"
 msgstr ""
 
-#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/BedBookingWidget.php:106
+#: F:\XAMPP\htdocs\BedBooking Wordpress
+#: Plugin/tags/1.0/BedBookingWidget.php:107
+#: Plugin/trunk/BedBookingWidget.php:107
 msgid "here"
 msgstr ""
 
-#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:2
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin/tags/1.0/admin/options.php:2
+#: Plugin/trunk/admin/options.php:2
 msgid "Username or password are invalid"
 msgstr ""
 
-#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:3
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin/tags/1.0/admin/options.php:3
+#: Plugin/trunk/admin/options.php:3
 msgid "Save successfull"
 msgstr ""
 
-#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:47
-msgid "Basic settings"
-msgstr "Test tłumaczeń"
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin/tags/1.0/admin/options.php:9
+msgid "Register"
+msgstr "Register"
 
-#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:52
-msgid "Credentials to bed-booking panel"
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin/tags/1.0/admin/options.php:10
+msgid "Login"
+msgstr "Login"
+
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin/tags/1.0/admin/options.php:18
+#: Plugin/trunk/admin/options.php:18
+msgid "TxtNewUser1"
 msgstr ""
 
-#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:59
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin/tags/1.0/admin/options.php:19
+#: Plugin/trunk/admin/options.php:19
+msgid "TxtNewUser2"
+msgstr ""
+
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin/tags/1.0/admin/options.php:24
+#: Plugin/tags/1.0/admin/options.php:78 Plugin/trunk/admin/options.php:24
+#: Plugin/trunk/admin/options.php:78
+msgid "TxtHelp"
+msgstr ""
+
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin/tags/1.0/admin/options.php:44
+#: Plugin/trunk/admin/options.php:44
+msgid "TxtAccount1"
+msgstr ""
+
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin/tags/1.0/admin/options.php:45
+#: Plugin/trunk/admin/options.php:45
+msgid "TxtAccount2"
+msgstr ""
+
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin/tags/1.0/admin/options.php:50
+#: Plugin/trunk/admin/options.php:50
 msgid "Username"
 msgstr ""
 
-#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:63
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin/tags/1.0/admin/options.php:54
+#: Plugin/trunk/admin/options.php:54
 msgid "Password"
 msgstr ""
 
-#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:68
-msgid "Valid credentials"
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin/tags/1.0/admin/options.php:60
+#: Plugin/trunk/admin/options.php:60
+msgid "TxtDontRemembaPass"
 msgstr ""
 
-#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:72
-msgid "Bebbooking connection"
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin/tags/1.0/admin/options.php:64
+#: Plugin/trunk/admin/options.php:64
+msgid "Save"
 msgstr ""
 
-#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:72
-msgid "remove"
-msgstr ""
-
-#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:75
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin/tags/1.0/admin/options.php:69
+#: Plugin/trunk/admin/options.php:69
 msgid "Go to widgets to complete the configuration"
 msgstr ""
 
-#: F:\XAMPP\htdocs\wordpress\wp-content\plugins\BedBookingPlugin/admin/options.php:94
-msgid "Save"
-msgstr ""
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin/trunk/admin/options.php:9
+msgid "TxtRegister"
+msgstr "Register"
+
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin/trunk/admin/options.php:10
+msgid "TxtLogin"
+msgstr "Login"
+
+#~ msgid "Basic settings"
+#~ msgstr "Test tłumaczeń"

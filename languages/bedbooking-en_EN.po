@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Bedbooking plugin\n"
-"POT-Creation-Date: 2015-05-08 07:44+0100\n"
-"PO-Revision-Date: 2015-05-08 07:44+0100\n"
+"POT-Creation-Date: 2015-07-28 11:23+0100\n"
+"PO-Revision-Date: 2015-07-28 11:25+0100\n"
 "Last-Translator: \n"
 "Language-Team: RST <startup@rst.com.pl>\n"
 "Language: English\n"
@@ -13,119 +13,158 @@ msgstr ""
 "X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;_x\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-SearchPath-0: F:/plugin_test\n"
+"X-Poedit-SearchPath-0: F:\\XAMPP\\htdocs\\BedBooking Wordpress Plugin\\tags"
+"\\1.0\n"
 
-#: F:/plugin_test/BedBookingPlugin.php:16
-msgid "bb_desc"
+#: F:\XAMPP\htdocs\BedBooking Wordpress
+#: Plugin\tags\1.0/BedBookingPlugin.php:21
+msgid ""
+"Sell accommodation through your website. The widget automatically updates "
+"available dates and bookings based on the data from the BedBooking "
+"application."
 msgstr ""
 "Sell accommodation through your website. The widget automatically updates "
 "available dates and bookings based on the data from the BedBooking "
 "application."
 
-#: F:/plugin_test/BedBookingPlugin.php:17
-msgid "bb_name"
+#: F:\XAMPP\htdocs\BedBooking Wordpress
+#: Plugin\tags\1.0/BedBookingPlugin.php:22
+msgid "BedBooking - Booking calendar"
 msgstr "BedBooking - Booking calendar"
 
-#: F:/plugin_test/BedBookingPlugin.php:91
+#: F:\XAMPP\htdocs\BedBooking Wordpress
+#: Plugin\tags\1.0/BedBookingPlugin.php:91
 msgid "You do not have sufficient permissions to access this page."
 msgstr "You do not have the required permissions to view this page"
 
-#: F:/plugin_test/BedBookingWidget.php:9
+#: F:\XAMPP\htdocs\BedBooking Wordpress
+#: Plugin\tags\1.0/BedBookingWidget.php:15
 msgid "BedBooking"
 msgstr "BedBooking"
 
-#: F:/plugin_test/BedBookingWidget.php:10
-msgid "Kalendarz, wyszukiwarka"
+#: F:\XAMPP\htdocs\BedBooking Wordpress
+#: Plugin\tags\1.0/BedBookingWidget.php:16
+msgid "Booking calendar"
 msgstr "Booking calendar"
 
-#: F:/plugin_test/BedBookingWidget.php:89
+#: F:\XAMPP\htdocs\BedBooking Wordpress
+#: Plugin\tags\1.0/BedBookingWidget.php:90
 msgid "Type:"
 msgstr "Type:"
 
-#: F:/plugin_test/BedBookingWidget.php:94
+#: F:\XAMPP\htdocs\BedBooking Wordpress
+#: Plugin\tags\1.0/BedBookingWidget.php:95
 msgid "Language:"
 msgstr "Language:"
 
-#: F:/plugin_test/BedBookingWidget.php:105
+#: F:\XAMPP\htdocs\BedBooking Wordpress
+#: Plugin\tags\1.0/BedBookingWidget.php:106
 msgid "Please configure plugin first"
 msgstr "Please configure plugin first"
 
-#: F:/plugin_test/BedBookingWidget.php:106
+#: F:\XAMPP\htdocs\BedBooking Wordpress
+#: Plugin\tags\1.0/BedBookingWidget.php:107
 msgid "here"
 msgstr "here"
 
-#: F:/plugin_test/admin/options.php:2
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin\tags\1.0/admin/options.php:2
 msgid "Username or password are invalid"
 msgstr "Login or password are invalid"
 
-#: F:/plugin_test/admin/options.php:3
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin\tags\1.0/admin/options.php:3
 msgid "Save successfull"
 msgstr "Save successfull"
 
-#: F:/plugin_test/admin/options.php:20
-msgid "TxtRegister"
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin\tags\1.0/admin/options.php:9
+msgid "Register"
 msgstr "Register"
 
-#: F:/plugin_test/admin/options.php:21
-msgid "TxtLogin"
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin\tags\1.0/admin/options.php:10
+msgid "Login"
 msgstr "Login"
 
-#: F:/plugin_test/admin/options.php:29
-msgid "TxtNewUser1"
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin\tags\1.0/admin/options.php:18
+msgid "A new user?"
 msgstr "A new user?"
 
-#: F:/plugin_test/admin/options.php:30
-msgid "TxtNewUser2"
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin\tags\1.0/admin/options.php:19
+msgid "Download application and create account"
 msgstr "Download application and create account"
 
-#: F:/plugin_test/admin/options.php:35 F:/plugin_test/admin/options.php:109
-msgid "TxtHelp"
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin\tags\1.0/admin/options.php:24
+#: Plugin\tags\1.0/admin/options.php:78
+msgid "Do you need help?"
 msgstr "Do you need help?"
 
-#: F:/plugin_test/admin/options.php:55
-msgid "TxtAccount1"
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin\tags\1.0/admin/options.php:44
+msgid "You have a registered account?"
 msgstr "You have a registered account?"
 
-#: F:/plugin_test/admin/options.php:56
-msgid "TxtAccount2"
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin\tags\1.0/admin/options.php:45
+msgid "Enter your account details and click Login"
 msgstr "Enter your account details and click Login"
 
-#: F:/plugin_test/admin/options.php:61
-msgid "Basic settings"
-msgstr "Test tłumaczeń"
-
-#: F:/plugin_test/admin/options.php:66
-msgid "Credentials to bed-booking panel"
-msgstr "Data access to BedBooking panel"
-
-#: F:/plugin_test/admin/options.php:73
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin\tags\1.0/admin/options.php:50
 msgid "Username"
 msgstr "Login"
 
-#: F:/plugin_test/admin/options.php:77
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin\tags\1.0/admin/options.php:54
 msgid "Password"
 msgstr "Password"
 
-#: F:/plugin_test/admin/options.php:83
-msgid "TxtDontRemembaPass"
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin\tags\1.0/admin/options.php:60
+msgid "Forgot your password?"
 msgstr "Forgot your password?"
 
-#: F:/plugin_test/admin/options.php:87
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin\tags\1.0/admin/options.php:64
 msgid "Save"
 msgstr "Login"
 
-#: F:/plugin_test/admin/options.php:93
-msgid "Valid credentials"
-msgstr "The login details are correct"
-
-#: F:/plugin_test/admin/options.php:97
-msgid "Bebbooking connection"
-msgstr "BedBooking connection was successful"
-
-#: F:/plugin_test/admin/options.php:97
-msgid "remove"
-msgstr "remove"
-
-#: F:/plugin_test/admin/options.php:100
+#: F:\XAMPP\htdocs\BedBooking Wordpress Plugin\tags\1.0/admin/options.php:69
 msgid "Go to widgets to complete the configuration"
 msgstr "Go to the widgets to complete the setup"
+
+#~ msgid "bb_desc"
+#~ msgstr ""
+#~ "Sell accommodation through your website. The widget automatically updates "
+#~ "available dates and bookings based on the data from the BedBooking "
+#~ "application."
+
+#~ msgid "bb_name"
+#~ msgstr "BedBooking - Booking calendar"
+
+#~ msgid "TxtHelp"
+#~ msgstr "Do you need help?"
+
+#~ msgid "TxtDontRemembaPass"
+#~ msgstr "Forgot your password?"
+
+#~ msgid "TxtAccount2"
+#~ msgstr "Enter your account details and click Login"
+
+#~ msgid "TxtAccount1"
+#~ msgstr "You have a registered account?"
+
+#~ msgid "TxtNewUser1"
+#~ msgstr "A new user?"
+
+#~ msgid "TxtNewUser2"
+#~ msgstr "Download application and create account"
+
+#~ msgid "Kalendarz, wyszukiwarka"
+#~ msgstr "Booking calendar"
+
+#~ msgid "Basic settings"
+#~ msgstr "Test tłumaczeń"
+
+#~ msgid "Credentials to bed-booking panel"
+#~ msgstr "Data access to BedBooking panel"
+
+#~ msgid "Valid credentials"
+#~ msgstr "The login details are correct"
+
+#~ msgid "Bebbooking connection"
+#~ msgstr "BedBooking connection was successful"
+
+#~ msgid "remove"
+#~ msgstr "remove"

@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: bb_name
+ * Plugin Name: BedBooking - Booking calendar
  * Plugin URI: http://rst.com.pl
  * Text Domain: bedbooking
  * Domain Path: /languages
- * Description: bb_desc
+ * Description: Sell accommodation through your website. The widget automatically updates available dates and bookings based on the data from the BedBooking application.
  * Version: 1.0
  * Author: RST
  * Author URI: http://rst.com.pl
@@ -18,8 +18,8 @@ define('bedbooking_Text_Domain', 'bedbooking');
 define('bedbooking_PLUGIN_URL', plugin_dir_url( __FILE__ ));
 
 
-__('bb_desc', bedbooking_Text_Domain);
-__('bb_name', bedbooking_Text_Domain);
+__('Sell accommodation through your website. The widget automatically updates available dates and bookings based on the data from the BedBooking application.', bedbooking_Text_Domain);
+__('BedBooking - Booking calendar', bedbooking_Text_Domain);
         
 if ( !function_exists( 'add_action' ) ) {
 	echo 'Hi there!  I\'m just a plugin, not much I can do when called directly.';

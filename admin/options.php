@@ -6,8 +6,8 @@
 
  
 
-		<div class="wp-bbregister wpbbactive"><center><p><?php _e('TxtRegister', bedbooking_Text_Domain); ?></p></center></div>
-		<div class="wp-bblogin wpbbunactive"><center><p><?php _e('TxtLogin', bedbooking_Text_Domain); ?></p></center></div>
+		<div class="wp-bbregister wpbbactive"><center><p><?php _e('Register', bedbooking_Text_Domain); ?></p></center></div>
+		<div class="wp-bblogin wpbbunactive"><center><p><?php _e('Login', bedbooking_Text_Domain); ?></p></center></div>
 			<div style="clear:both;"><!-- --></div>
 		
     <div id="widgets-left">
@@ -15,13 +15,13 @@
                             <div class="widgets-holder-wrap">
                                 <div id="primary-widget-area" class="widgets-sortables ui-sortable" style="">
 									<br/>
-									<p class="txt-info"><?php _e('TxtNewUser1', bedbooking_Text_Domain); ?></p>
-									<p class="txt-info"><?php _e('TxtNewUser2', bedbooking_Text_Domain); ?></p><br/>
+									<p class="txt-info"><?php _e('A new user?', bedbooking_Text_Domain); ?></p>
+									<p class="txt-info"><?php _e('Download application and create account', bedbooking_Text_Domain); ?></p><br/>
 									<a href="https://play.google.com/store/apps/details?id=com.rst.bedbooking" target="_blank" class="img-left"><img src="<?php echo plugins_url('/images/google-play.png', __FILE__); ?>" /></a><br/>
 									<a href="https://itunes.apple.com/US/app/id826280602?mt=8" target="_blank" class="img-left"><img src="<?php echo plugins_url('/images/apple.png', __FILE__); ?>" /></a><br/>
 									<a href="https://www.windowsphone.com/pl-pl/store/app/bedbooking/7f2561b5-474a-41bd-9153-08cf963dd39c" target="_blank" class="img-left"><img src="<?php echo plugins_url('/images/windows-store.png', __FILE__); ?>" /></a><br/>
 									<br/>
-									<p class="txt-info"><?php _e('TxtHelp', bedbooking_Text_Domain); ?></p>
+									<p class="txt-info"><?php _e('Do you need help?', bedbooking_Text_Domain); ?></p>
 									<a href="mailto:office@bed-booking.com" target="_blank" class="wp-link">office@bed-booking.com</a><br/>
 									<a href="http://www.bed-booking.com" target="_blank" class="wp-link">www.bed-booking.com</a>
 
@@ -41,8 +41,8 @@
                             <div class="widgets-holder-wrap">
                                 <div id="primary-widget-area" class="widgets-sortables ui-sortable" style="">
 									<br/>
-									<p class="txt-info"><?php _e('TxtAccount1', bedbooking_Text_Domain); ?></p>
-									<p class="txt-info"><?php _e('TxtAccount2', bedbooking_Text_Domain); ?></p><br/>
+									<p class="txt-info"><?php _e('You have a registered account?', bedbooking_Text_Domain); ?></p>
+									<p class="txt-info"><?php _e('Enter your account details and click Login', bedbooking_Text_Domain); ?></p><br/>
    
                                     <div class="widget-content">
                                         <div style="padding-left:30px; padding-top:5px;">
@@ -57,7 +57,7 @@
 											
 											
 											
-											<a href="https://panel.bed-booking.com/index/forgot/" target="_blank" class="wp-link" style="margin-left:0px !important;"><?php _e('TxtDontRemembaPass', bedbooking_Text_Domain); ?></a>											
+											<a href="https://panel.bed-booking.com/index/forgot/" target="_blank" class="wp-link" style="margin-left:0px !important;"><?php _e('Forgot your password?', bedbooking_Text_Domain); ?></a>											
 							                                
 											<!--Banner Places--> 
 												<div class="clear save-row">
@@ -75,7 +75,7 @@
 	
 
 									<br/>
-									<p class="txt-info"><?php _e('TxtHelp', bedbooking_Text_Domain); ?></p>
+									<p class="txt-info"><?php _e('Do you need help?', bedbooking_Text_Domain); ?></p>
 									<a href="mailto:office@bed-booking.com" target="_blank" class="wp-link">office@bed-booking.com</a><br/>
 									<a href="http://www.bed-booking.com" target="_blank" class="wp-link">www.bed-booking.com</a>
 								
